@@ -1,0 +1,24 @@
+# Dependencias de Node.js
+node_modules/
+
+# Archivos compilados por TypeScript
+dist/
+
+# Archivos de logs
+*.log
+npm-debug.log*
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Configuración de entorno (si en el futuro añades algún .env)
+.env
+.env.*
+
+# Archivos temporales del editor
+*.swp
+*.swo
+.idea/
+.vscode/
+*.code-workspace
